@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4FUNPL" tvg-name="PL: 4FUN TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s101294_ll_h3_aa.png" group-title="epremki.com",PL: 4FUN TV HD
+http://one.alidesi.org:80/halim55/55halim/1898
+#EXTINF:-1 tvg-id="" tvg-name="PL: ALE KINO+ FHD" tvg-logo="" group-title="epremki.com",PL: ALE KINO+ FHD
+http://one.alidesi.org:80/halim55/55halim/1260
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ 1 FHD" tvg-logo="" group-title="epremki.com",PL: CANAL+ 1 FHD
+http://one.alidesi.org:80/halim55/55halim/1896
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL FILM HD" tvg-logo="" group-title="epremki.com",PL: CANAL FILM HD
+http://one.alidesi.org:80/halim55/55halim/1164
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ PREMIUM FHD" tvg-logo="" group-title="epremki.com",PL: CANAL+ PREMIUM FHD
+http://one.alidesi.org:80/halim55/55halim/1895
+#EXTINF:-1 tvg-id="Discovery Life PL" tvg-name="PL: DISCOVERY LIFE FHD" tvg-logo="" group-title="epremki.com",PL: DISCOVERY LIFE FHD
+http://one.alidesi.org:80/halim55/55halim/1893
+#EXTINF:-1 tvg-id="" tvg-name="PL: DISNEY JR" tvg-logo="" group-title="epremki.com",PL: DISNEY JR
+http://one.alidesi.org:80/halim55/55halim/1892
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ DOMO" tvg-logo="" group-title="epremki.com",PL: CANAL+ DOMO
+http://one.alidesi.org:80/halim55/55halim/610
+#EXTINF:-1 tvg-id="" tvg-name="PL: FILMBOX EXTRA HD" tvg-logo="" group-title="epremki.com",PL: FILMBOX EXTRA HD
+http://one.alidesi.org:80/halim55/55halim/1261
+#EXTINF:-1 tvg-id="NicktoonsPoland.pl" tvg-name="PL: NICKTOONS HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_toons_us.png" group-title="epremki.com",PL: NICKTOONS HD
+http://one.alidesi.org:80/halim55/55halim/15330
+#EXTINF:-1 tvg-id="TTV.pl" tvg-name="PL: TTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/ttv_pl.png" group-title="epremki.com",PL: TTV HD
+http://one.alidesi.org:80/halim55/55halim/34903
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="PL: TV REPUBLIKA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-republika-pl.png" group-title="epremki.com",PL: TV REPUBLIKA
+http://one.alidesi.org:80/halim55/55halim/26237
+#EXTINF:-1 tvg-id="111203" tvg-name="PL: EUROSPORT 2" tvg-logo="" group-title="epremki.com",PL: EUROSPORT 2
+http://one.alidesi.org:80/halim55/55halim/506
+#EXTINF:-1 tvg-id="" tvg-name="PL: FILMBOX FAMILY HD" tvg-logo="" group-title="epremki.com",PL: FILMBOX FAMILY HD
+http://one.alidesi.org:80/halim55/55halim/1262
+#EXTINF:-1 tvg-id="" tvg-name="PL: FILMBOX PREMIUM FHD" tvg-logo="" group-title="epremki.com",PL: FILMBOX PREMIUM FHD
+http://one.alidesi.org:80/halim55/55halim/1263
+#EXTINF:-1 tvg-id="" tvg-name="PL: HBO 2 HD" tvg-logo="" group-title="epremki.com",PL: HBO 2 HD
+http://one.alidesi.org:80/halim55/55halim/1253
+#EXTINF:-1 tvg-id="" tvg-name="PL: HBO 3 HD" tvg-logo="" group-title="epremki.com",PL: HBO 3 HD
+http://one.alidesi.org:80/halim55/55halim/1240
+#EXTINF:-1 tvg-id="" tvg-name="PL: HBO HD" tvg-logo="" group-title="epremki.com",PL: HBO HD
+http://one.alidesi.org:80/halim55/55halim/1252
+#EXTINF:-1 tvg-id="7057" tvg-name="PL: TVP HISTORIA" tvg-logo="" group-title="epremki.com",PL: TVP HISTORIA
+http://one.alidesi.org:80/halim55/55halim/1163
+#EXTINF:-1 tvg-id="CanalPlusKuchnia.pl" tvg-name="PL: Canal+ KUCHNIA" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: Canal+ KUCHNIA
+http://one.alidesi.org:80/halim55/55halim/1906
+#EXTINF:-1 tvg-id="" tvg-name="PL: NAT GEO FHD" tvg-logo="" group-title="epremki.com",PL: NAT GEO FHD
+http://one.alidesi.org:80/halim55/55halim/1905
+#EXTINF:-1 tvg-id="" tvg-name="PL: NAT GEO WILD FHD" tvg-logo="" group-title="epremki.com",PL: NAT GEO WILD FHD
+http://one.alidesi.org:80/halim55/55halim/1903
+#EXTINF:-1 tvg-id="4499" tvg-name="PL: POLSAT FHD" tvg-logo="" group-title="epremki.com",PL: POLSAT FHD
+http://one.alidesi.org:80/halim55/55halim/1161
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT Cafe" tvg-logo="" group-title="epremki.com",PL: POLSAT Cafe
+http://one.alidesi.org:80/halim55/55halim/1264
+#EXTINF:-1 tvg-id="" tvg-name="PL: n Sport+ FHD" tvg-logo="" group-title="epremki.com",PL: n Sport+ FHD
+http://one.alidesi.org:80/halim55/55halim/1165
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP SPORT HD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: TVP SPORT HD
+http://one.alidesi.org:80/halim55/55halim/36375
+#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="PL: POLSAT NEWS 2" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: POLSAT NEWS 2
+http://one.alidesi.org:80/halim55/55halim/1907
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT News" tvg-logo="" group-title="epremki.com",PL: POLSAT News
+http://one.alidesi.org:80/halim55/55halim/1239
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT PLAY FHD" tvg-logo="" group-title="epremki.com",PL: POLSAT PLAY FHD
+http://one.alidesi.org:80/halim55/55halim/1904
+#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="PL: POLO TV HD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: POLO TV HD
+http://one.alidesi.org:80/halim55/55halim/4999
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT News FHD" tvg-logo="" group-title="epremki.com",PL: POLSAT SPORT News FHD
+http://one.alidesi.org:80/halim55/55halim/1251
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT EXTRA FHD" tvg-logo="" group-title="epremki.com",PL: POLSAT SPORT EXTRA FHD
+http://one.alidesi.org:80/halim55/55halim/1902
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="PL: POLSAT SPORT FHD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: POLSAT SPORT FHD
+http://one.alidesi.org:80/halim55/55halim/2735
+#EXTINF:-1 tvg-id="CanalPlusSportPoland.pl" tvg-name="PL: CANAL+ Sport HD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: CANAL+ Sport HD
+http://one.alidesi.org:80/halim55/55halim/2736
+#EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" tvg-name="PL: CANAL+ Sport 2 FHD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: CANAL+ Sport 2 FHD
+http://one.alidesi.org:80/halim55/55halim/2737
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Sport 3 FHD" tvg-logo="" group-title="epremki.com",PL: CANAL+ Sport 3 FHD
+http://one.alidesi.org:80/halim55/55halim/57951
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Sport 4 FHD" tvg-logo="" group-title="epremki.com",PL: CANAL+ Sport 4 FHD
+http://one.alidesi.org:80/halim55/55halim/57952
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV4 FHD" tvg-logo="" group-title="epremki.com",PL: TV4 FHD
+http://one.alidesi.org:80/halim55/55halim/1901
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN FHD" tvg-logo="" group-title="epremki.com",PL: TVN FHD
+http://one.alidesi.org:80/halim55/55halim/1162
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="PL: TVN 7 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn_7_pl.png" group-title="epremki.com",PL: TVN 7 HD
+http://one.alidesi.org:80/halim55/55halim/13424
+#EXTINF:-1 tvg-id="TVN24HD" tvg-name="PL: TVN 24" tvg-logo="http://fanc.tmsimg.com/assets/s105960_ll_h3_aa.png" group-title="epremki.com",PL: TVN 24
+http://one.alidesi.org:80/halim55/55halim/1166
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN STYLE FHD" tvg-logo="" group-title="epremki.com",PL: TVN STYLE FHD
+http://one.alidesi.org:80/halim55/55halim/1250
+#EXTINF:-1 tvg-id="TVP 1 HD PL" tvg-name="PL: TVP 1 HD" tvg-logo="" group-title="epremki.com",PL: TVP 1 HD
+http://one.alidesi.org:80/halim55/55halim/1890
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="PL: TVP 2 FHD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: TVP 2 FHD
+http://one.alidesi.org:80/halim55/55halim/1911
+#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-name="PL: TVP 3 Warszawa" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: TVP 3 Warszawa
+http://one.alidesi.org:80/halim55/55halim/1908
+#EXTINF:-1 tvg-id="TVPHD.pl" tvg-name="PL: TVP FHD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: TVP FHD
+http://one.alidesi.org:80/halim55/55halim/1910
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="PL: TVP KULTURA" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: TVP KULTURA
+http://one.alidesi.org:80/halim55/55halim/1909
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="PL: TVP SERIALE HD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: TVP SERIALE HD
+http://one.alidesi.org:80/halim55/55halim/1912
+#EXTINF:-1 tvg-id="" tvg-name="PL: SCIFI HD" tvg-logo="" group-title="epremki.com",PL: SCIFI HD
+http://one.alidesi.org:80/halim55/55halim/1900
+#EXTINF:-1 tvg-id="" tvg-name="PL: MTV MUSIK 24 HD" tvg-logo="" group-title="epremki.com",PL: MTV MUSIK 24 HD
+http://one.alidesi.org:80/halim55/55halim/1899
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="PL: EUROSPORT 1 HD" tvg-logo="http://img.alidesi.org:8080/images/eurosport1.png" group-title="epremki.com",PL: EUROSPORT 1 HD
+http://one.alidesi.org:80/halim55/55halim/14250
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 1" tvg-logo="" group-title="epremki.com",PL: ELEVEN SPORTS 1
+http://one.alidesi.org:80/halim55/55halim/66033
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="" group-title="epremki.com",PL: ELEVEN SPORTS 2
+http://one.alidesi.org:80/halim55/55halim/66034
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="" group-title="epremki.com",PL: ELEVEN SPORTS 3
+http://one.alidesi.org:80/halim55/55halim/66035
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="" group-title="epremki.com",PL: ELEVEN SPORTS 4
+http://one.alidesi.org:80/halim55/55halim/66036
+#EXTINF:-1 tvg-id="ZoomTV.pl" tvg-name="PL: Zoom TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/515fbca039b0382bee7f002998ff7fa1.png" group-title="epremki.com",PL: Zoom TV HD
+http://one.alidesi.org:80/halim55/55halim/41405
+#EXTINF:-1 tvg-id="WPolscePL.pl" tvg-name="PL: w Polsce PL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/21bc67acfe9926129ed017b57c31bc08.png" group-title="epremki.com",PL: w Polsce PL
+http://one.alidesi.org:80/halim55/55halim/41406
+#EXTINF:-1 tvg-id="" tvg-name="PL: Water Planet" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: Water Planet
+http://one.alidesi.org:80/halim55/55halim/41408
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVT ZGORZELEC HD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: TVT ZGORZELEC HD
+http://one.alidesi.org:80/halim55/55halim/41409
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVS HD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: TVS HD
+http://one.alidesi.org:80/halim55/55halim/41410
+#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="PL: TVP Rozrywka HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/087e2f38b1ceeed2f8f06c2a3eac713e.png" group-title="epremki.com",PL: TVP Rozrywka HD
+http://one.alidesi.org:80/halim55/55halim/41411
+#EXTINF:-1 tvg-id="TVPHD.pl" tvg-name="PL: TVP FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14dfbcac09b4e07f8fad57a4ace98966.png" group-title="epremki.com",PL: TVP FHD
+http://one.alidesi.org:80/halim55/55halim/41412
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="PL: TVP Info FHD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: TVP Info FHD
+http://one.alidesi.org:80/halim55/55halim/41413
+#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="PL: TVP HISTORIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6552f2cce0d6a8ee371d17ce8ed79ecf.png" group-title="epremki.com",PL: TVP HISTORIA
+http://one.alidesi.org:80/halim55/55halim/41414
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP PREMIERA FHD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: TVP PREMIERA FHD
+http://one.alidesi.org:80/halim55/55halim/41415
+#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="PL: TVN Turbo FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ab67e74b7ce8a0a8e73e5625898b3ea2.png" group-title="epremki.com",PL: TVN Turbo FHD
+http://one.alidesi.org:80/halim55/55halim/41416
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN Fabula FHD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: TVN Fabula FHD
+http://one.alidesi.org:80/halim55/55halim/41417
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="PL: TV 6 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2c5f04c827ede67752b5a5830590f616.png" group-title="epremki.com",PL: TV 6 FHD
+http://one.alidesi.org:80/halim55/55halim/41421
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV TORUN FHD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: TV TORUN FHD
+http://one.alidesi.org:80/halim55/55halim/41422
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="PL: TV Republika HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-republika-pl.png" group-title="epremki.com",PL: TV Republika HD
+http://one.alidesi.org:80/halim55/55halim/41423
+#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="PL: TV Puls FHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-puls-pl.png" group-title="epremki.com",PL: TV Puls FHD
+http://one.alidesi.org:80/halim55/55halim/41425
+#EXTINF:-1 tvg-id="TVOkazje.pl" tvg-name="PL: TV Okazje" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-okazje-pl.png" group-title="epremki.com",PL: TV Okazje
+http://one.alidesi.org:80/halim55/55halim/41426
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV Kujawy" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: TV Kujawy
+http://one.alidesi.org:80/halim55/55halim/41427
+#EXTINF:-1 tvg-id="TeletoonPlusHDPoland.fr" tvg-name="PL: TeleToon+ FHD" tvg-logo="http://www.lyngsat.com/logo/tv/cc/canalplus_fr_teletoon_plus.png" group-title="epremki.com",PL: TeleToon+ FHD
+http://one.alidesi.org:80/halim55/55halim/41428
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="PL: Tele 5" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tele5_pl.png" group-title="epremki.com",PL: Tele 5
+http://one.alidesi.org:80/halim55/55halim/41429
+#EXTINF:-1 tvg-id="" tvg-name="PL: TLC" tvg-logo="" group-title="epremki.com",PL: TLC
+http://one.alidesi.org:80/halim55/55halim/60586
+#EXTINF:-1 tvg-id="Superstacja.pl" tvg-name="PL: Superstacja FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Superstacja_-_Logo.png" group-title="epremki.com",PL: Superstacja FHD
+http://one.alidesi.org:80/halim55/55halim/41430
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="PL: CANAL+ Seriale FHD" tvg-logo="http://www.lyngsat.com/logo/tv/cc/canalplus_pl_seriale.png" group-title="epremki.com",PL: CANAL+ Seriale FHD
+http://one.alidesi.org:80/halim55/55halim/41431
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="PL: Stopklatka TV" tvg-logo="http://img.alidesi.org:8080/images/sportklubhd.png" group-title="epremki.com",PL: Stopklatka TV
+http://one.alidesi.org:80/halim55/55halim/41432
+#EXTINF:-1 tvg-id="" tvg-name="PL: Romance FHD" tvg-logo="http://img.alidesi.org:8080/images/romance.png" group-title="epremki.com",PL: Romance FHD
+http://one.alidesi.org:80/halim55/55halim/41435
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="PL: Red Carpet FHD" tvg-logo="http://img.alidesi.org:8080/images/redcartpet.png" group-title="epremki.com",PL: Red Carpet FHD
+http://one.alidesi.org:80/halim55/55halim/41436
+#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="PL: POWER TV HD" tvg-logo="http://img.alidesi.org:8080/images/power.png" group-title="epremki.com",PL: POWER TV HD
+http://one.alidesi.org:80/halim55/55halim/41437
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="PL: POLSAT Sport FIGHT FHD" tvg-logo="http://img.alidesi.org:8080/images/polsatsportfight.png" group-title="epremki.com",PL: POLSAT Sport FIGHT FHD
+http://one.alidesi.org:80/halim55/55halim/41438
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="PL: Polsat Sport Premium 1 FHD" tvg-logo="http://img.alidesi.org:8080/images/polsatsportpremium1.png" group-title="epremki.com",PL: Polsat Sport Premium 1 FHD
+http://one.alidesi.org:80/halim55/55halim/41439
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="PL: Polsat Sport Premium 1 HD" tvg-logo="http://img.alidesi.org:8080/images/polsatsportpremiumsuper.png" group-title="epremki.com",PL: Polsat Sport Premium 1 HD
+http://one.alidesi.org:80/halim55/55halim/41440
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="PL: Polsat Sport Premium 2 FHD" tvg-logo="http://img.alidesi.org:8080/images/polsatsportpremium2.png" group-title="epremki.com",PL: Polsat Sport Premium 2 FHD
+http://one.alidesi.org:80/halim55/55halim/41441
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="PL: Polsat Sport Premium 3 FHD" tvg-logo="http://img.alidesi.org:8080/images/polsatsportpremium3.png" group-title="epremki.com",PL: Polsat Sport Premium 3 FHD
+http://one.alidesi.org:80/halim55/55halim/41442
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 4 FHD" tvg-logo="http://img.alidesi.org:8080/images/polsatsportpremium4.png" group-title="epremki.com",PL: Polsat Sport Premium 4 FHD
+http://one.alidesi.org:80/halim55/55halim/41443
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="PL: Polsat Sport Premium 5 FHD" tvg-logo="http://img.alidesi.org:8080/images/polsatsportpremium5.png" group-title="epremki.com",PL: Polsat Sport Premium 5 FHD
+http://one.alidesi.org:80/halim55/55halim/41444
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="PL: Polsat Sport Premium 6 FHD" tvg-logo="http://img.alidesi.org:8080/images/polsatsportpremiumppv.png" group-title="epremki.com",PL: Polsat Sport Premium 6 FHD
+http://one.alidesi.org:80/halim55/55halim/41445
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="PL: Polsat Sport Premium PPV3 HD" tvg-logo="http://img.alidesi.org:8080/images/polsatsportpremiumppv.png" group-title="epremki.com",PL: Polsat Sport Premium PPV3 HD
+http://one.alidesi.org:80/halim55/55halim/41447
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="PL: Polsat Sport Premium PPV 4 HD" tvg-logo="http://img.alidesi.org:8080/images/polsatsportpremiumppv.png" group-title="epremki.com",PL: Polsat Sport Premium PPV 4 HD
+http://one.alidesi.org:80/halim55/55halim/41446
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium PPV5 HD" tvg-logo="http://img.alidesi.org:8080/images/polsatsportpremiumppv.png" group-title="epremki.com",PL: Polsat Sport Premium PPV5 HD
+http://one.alidesi.org:80/halim55/55halim/41448
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium PPV6 HD" tvg-logo="http://img.alidesi.org:8080/images/polsatsportpremiumppv.png" group-title="epremki.com",PL: Polsat Sport Premium PPV6 HD
+http://one.alidesi.org:80/halim55/55halim/41449
+#EXTINF:-1 tvg-id="6226" tvg-name="PL: SUPER POLSAT FHD" tvg-logo="http://img.alidesi.org:8080/images/polsatsuper.png" group-title="epremki.com",PL: SUPER POLSAT FHD
+http://one.alidesi.org:80/halim55/55halim/41450
+#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery Channel FHD" tvg-logo="" group-title="epremki.com",PL: Discovery Channel FHD
+http://one.alidesi.org:80/halim55/55halim/1894
+#EXTINF:-1 tvg-id="" tvg-name="PL: 4Fun Kids FHD" tvg-logo="" group-title="epremki.com",PL: 4Fun Kids FHD
+http://one.alidesi.org:80/halim55/55halim/1897
+#EXTINF:-1 tvg-id="Fokus TV PL" tvg-name="PL: FOKUS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fokus_tv_pl.png" group-title="epremki.com",PL: FOKUS
+http://one.alidesi.org:80/halim55/55halim/13356
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="PL: FIGHTBOX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png" group-title="epremki.com",PL: FIGHTBOX
+http://one.alidesi.org:80/halim55/55halim/13988
+#EXTINF:-1 tvg-id="6962" tvg-name="PL: POLSAT HD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: POLSAT HD
+http://one.alidesi.org:80/halim55/55halim/16143
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="PL: POLSAT 2 FHD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="epremki.com",PL: POLSAT 2 FHD
+http://one.alidesi.org:80/halim55/55halim/16144
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="PL: TV 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-4-pl.svg" group-title="epremki.com",PL: TV 4 FHD
+http://one.alidesi.org:80/halim55/55halim/16145
