@@ -1,0 +1,625 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="tvp.pl" tvg-name=" TVP HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVP_HD.png" group-title="vabenemium.com", TVP HD
+http://sansat.net:25461/02024714519528/8193779560/94783
+#EXTINF:-1 tvg-ID="tvp1.pl" tvg-name=" TVP 1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVP_1_HD.png" group-title="vabenemium.com", TVP 1 HD
+http://sansat.net:25461/02024714519528/8193779560/94784
+#EXTINF:-1 tvg-ID="tvp2.pl" tvg-name=" TVP 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVP_2_HD.png" group-title="vabenemium.com", TVP 2 HD
+http://sansat.net:25461/02024714519528/8193779560/94785
+#EXTINF:-1 tvg-ID="tvp3.pl" tvg-name=" TVP 3" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVP_3.png" group-title="vabenemium.com", TVP 3
+http://sansat.net:25461/02024714519528/8193779560/94786
+#EXTINF:-1 tvg-ID="tv4.pl" tvg-name=" TV4 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TV4_HD.png" group-title="vabenemium.com", TV4 HD
+http://sansat.net:25461/02024714519528/8193779560/94787
+#EXTINF:-1 tvg-ID="tele5.pl" tvg-name=" TELE 5" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TELE_5.png" group-title="vabenemium.com", TELE 5
+http://sansat.net:25461/02024714519528/8193779560/94788
+#EXTINF:-1 tvg-ID="tv6.pl" tvg-name=" TV6" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TV6.png" group-title="vabenemium.com", TV6
+http://sansat.net:25461/02024714519528/8193779560/94789
+#EXTINF:-1 tvg-ID="polonia1.pl" tvg-name=" POLONIA 1" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polonia_1.png" group-title="vabenemium.com", POLONIA 1
+http://sansat.net:25461/02024714519528/8193779560/94790
+#EXTINF:-1 tvg-ID="polsat.pl" tvg-name=" POLSAT HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_HD.png" group-title="vabenemium.com", POLSAT HD
+http://sansat.net:25461/02024714519528/8193779560/94791
+#EXTINF:-1 tvg-ID="polsat2.pl" tvg-name=" POLSAT 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_2_HD.png" group-title="vabenemium.com", POLSAT 2 HD
+http://sansat.net:25461/02024714519528/8193779560/94792
+#EXTINF:-1 tvg-ID="superpolsat.pl" tvg-name=" SUPER POLSAT" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Super_Polsat.png" group-title="vabenemium.com", SUPER POLSAT
+http://sansat.net:25461/02024714519528/8193779560/94793
+#EXTINF:-1 tvg-ID="tvn.pl" tvg-name=" TVN HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVN_HD.png" group-title="vabenemium.com", TVN HD
+http://sansat.net:25461/02024714519528/8193779560/94794
+#EXTINF:-1 tvg-ID="tvn7.pl" tvg-name=" TVN 7 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVN_7_HD.png" group-title="vabenemium.com", TVN 7 HD
+http://sansat.net:25461/02024714519528/8193779560/94795
+#EXTINF:-1 tvg-ID="tvs.pl" tvg-name=" TVS" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVS.png" group-title="vabenemium.com", TVS
+http://sansat.net:25461/02024714519528/8193779560/94796
+#EXTINF:-1 tvg-ID="ttv.pl" tvg-name=" TTV HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TTV_HD.png" group-title="vabenemium.com", TTV HD
+http://sansat.net:25461/02024714519528/8193779560/94797
+#EXTINF:-1 tvg-ID="tvpuls.pl" tvg-name=" TV PULS HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TV_PULS_HD.png" group-title="vabenemium.com", TV PULS HD
+http://sansat.net:25461/02024714519528/8193779560/94798
+#EXTINF:-1 tvg-ID="polsatrodzina.pl" tvg-name=" POLSAT RODZINA" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Rodzina.png" group-title="vabenemium.com", POLSAT RODZINA
+http://sansat.net:25461/02024714519528/8193779560/94800
+#EXTINF:-1 tvg-ID="" tvg-name="===== PL KINO =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/POLONIA.png" group-title="vabenemium.com",===== PL KINO =====
+http://sansat.net:25461/02024714519528/8193779560/94801
+#EXTINF:-1 tvg-ID="canalplus1.pl" tvg-name=" CANAL 1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+1_HD.png" group-title="vabenemium.com", CANAL 1 HD
+http://sansat.net:25461/02024714519528/8193779560/94803
+#EXTINF:-1 tvg-ID="canalplusfamily.pl" tvg-name=" CANAL FAMILY HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+FAMILY_HD.png" group-title="vabenemium.com", CANAL FAMILY HD
+http://sansat.net:25461/02024714519528/8193779560/94804
+#EXTINF:-1 tvg-ID="canalplusfilm.pl" tvg-name=" CANAL FILM HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+FILM_HD.png" group-title="vabenemium.com", CANAL FILM HD
+http://sansat.net:25461/02024714519528/8193779560/94805
+#EXTINF:-1 tvg-ID="canalplusseriale.pl" tvg-name=" CANAL SERIALE HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+SERIALE_HD.png" group-title="vabenemium.com", CANAL SERIALE HD
+http://sansat.net:25461/02024714519528/8193779560/94806
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL DISCOVERY HD" tvg-logo="http://vodkom.com:25461/Logo/ALL/Discovery_HD.png" group-title="vabenemium.com", CANAL DISCOVERY HD
+http://sansat.net:25461/02024714519528/8193779560/94808
+#EXTINF:-1 tvg-ID="filmboxextra.pl" tvg-name=" FILMBOX EXTRA" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/FilmBox_Extra_HD.png" group-title="vabenemium.com", FILMBOX EXTRA
+http://sansat.net:25461/02024714519528/8193779560/94809
+#EXTINF:-1 tvg-ID="filmboxpremium.pl" tvg-name=" FILMBOX PREMIUM HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Filmbox_Premium_HD.png" group-title="vabenemium.com", FILMBOX PREMIUM HD
+http://sansat.net:25461/02024714519528/8193779560/94810
+#EXTINF:-1 tvg-ID="filmboxaction.pl" tvg-name=" FILMBOX ACTION" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/FilmBox_Action.png" group-title="vabenemium.com", FILMBOX ACTION
+http://sansat.net:25461/02024714519528/8193779560/94811
+#EXTINF:-1 tvg-ID="filmboxfamily.pl" tvg-name=" FILMBOX FAMILY" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/FilmBox_Family.png" group-title="vabenemium.com", FILMBOX FAMILY
+http://sansat.net:25461/02024714519528/8193779560/94812
+#EXTINF:-1 tvg-ID="filmboxarthouse.pl" tvg-name=" FILMBOX ARTHOUSE" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Filmbox_Arthouse.png" group-title="vabenemium.com", FILMBOX ARTHOUSE
+http://sansat.net:25461/02024714519528/8193779560/94813
+#EXTINF:-1 tvg-ID="cinemax.pl" tvg-name=" CINEMAX HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Cinemax HD.png" group-title="vabenemium.com", CINEMAX HD
+http://sansat.net:25461/02024714519528/8193779560/94814
+#EXTINF:-1 tvg-ID="cinemax2.pl" tvg-name=" CINEMAX 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Cinemax_2_HD.png" group-title="vabenemium.com", CINEMAX 2 HD
+http://sansat.net:25461/02024714519528/8193779560/94815
+#EXTINF:-1 tvg-ID="hbo.pl" tvg-name=" HBO HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/HBO_HD.png" group-title="vabenemium.com", HBO HD
+http://sansat.net:25461/02024714519528/8193779560/94816
+#EXTINF:-1 tvg-ID="hbo2.pl" tvg-name=" HBO 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/HBO2_HD.png" group-title="vabenemium.com", HBO 2 HD
+http://sansat.net:25461/02024714519528/8193779560/94817
+#EXTINF:-1 tvg-ID="hbo3.pl" tvg-name=" HBO 3 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/HBO3_HD.png" group-title="vabenemium.com", HBO 3 HD
+http://sansat.net:25461/02024714519528/8193779560/94818
+#EXTINF:-1 tvg-ID="" tvg-name=" VOD 205" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/VOD_205.png" group-title="vabenemium.com", VOD 205
+http://sansat.net:25461/02024714519528/8193779560/94819
+#EXTINF:-1 tvg-ID="" tvg-name=" VOD 206" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/VOD_206.png" group-title="vabenemium.com", VOD 206
+http://sansat.net:25461/02024714519528/8193779560/94820
+#EXTINF:-1 tvg-ID="" tvg-name=" VOD 207" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/VOD_207.png" group-title="vabenemium.com", VOD 207
+http://sansat.net:25461/02024714519528/8193779560/94821
+#EXTINF:-1 tvg-ID="" tvg-name=" VOD 208" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/VOD_208.png" group-title="vabenemium.com", VOD 208
+http://sansat.net:25461/02024714519528/8193779560/94822
+#EXTINF:-1 tvg-ID="" tvg-name="===== PL SERIALE =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/POLONIA.png" group-title="vabenemium.com",===== PL SERIALE =====
+http://sansat.net:25461/02024714519528/8193779560/94823
+#EXTINF:-1 tvg-ID="fox.pl" tvg-name=" FOX HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/FOX_HD.png" group-title="vabenemium.com", FOX HD
+http://sansat.net:25461/02024714519528/8193779560/94824
+#EXTINF:-1 tvg-ID="foxcomedy.pl" tvg-name=" FOX COMEDY HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Fox_Comedy_HD.png" group-title="vabenemium.com", FOX COMEDY HD
+http://sansat.net:25461/02024714519528/8193779560/94825
+#EXTINF:-1 tvg-ID="axn.pl" tvg-name=" AXN HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/AXN_HD.png" group-title="vabenemium.com", AXN HD
+http://sansat.net:25461/02024714519528/8193779560/94826
+#EXTINF:-1 tvg-ID="axn.pl" tvg-name=" AXN" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/AXN_HD.png" group-title="vabenemium.com", AXN
+http://sansat.net:25461/02024714519528/8193779560/94827
+#EXTINF:-1 tvg-ID="axnwhite.pl" tvg-name=" AXN WHITE" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/AXN_White.png" group-title="vabenemium.com", AXN WHITE
+http://sansat.net:25461/02024714519528/8193779560/94828
+#EXTINF:-1 tvg-ID="axnblack.pl" tvg-name=" AXN BLACK" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/AXN_Black.png" group-title="vabenemium.com", AXN BLACK
+http://sansat.net:25461/02024714519528/8193779560/94829
+#EXTINF:-1 tvg-ID="axnspin.pl" tvg-name=" AXN SPIN HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/AXN_SPIN_HD.png" group-title="vabenemium.com", AXN SPIN HD
+http://sansat.net:25461/02024714519528/8193779560/94830
+#EXTINF:-1 tvg-ID="scifiuniversal.pl" tvg-name=" SCIFI HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/SciFi_HD.png" group-title="vabenemium.com", SCIFI HD
+http://sansat.net:25461/02024714519528/8193779560/94831
+#EXTINF:-1 tvg-ID="13ulica.pl" tvg-name=" 13 ULICA HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/13_Ulica_HD.png" group-title="vabenemium.com", 13 ULICA HD
+http://sansat.net:25461/02024714519528/8193779560/94832
+#EXTINF:-1 tvg-ID="eentertainment.pl" tvg-name=" E! ENTERTAINMENT" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/E!_Entertainment.png" group-title="vabenemium.com", E! ENTERTAINMENT
+http://sansat.net:25461/02024714519528/8193779560/94833
+#EXTINF:-1 tvg-ID="tvpseriale.pl" tvg-name=" TVP SERIALE" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVP_SERIALE.png" group-title="vabenemium.com", TVP SERIALE
+http://sansat.net:25461/02024714519528/8193779560/94834
+#EXTINF:-1 tvg-ID="cbseuropa.pl" tvg-name=" CBS EUROPA HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CBS_Europa_HD.png" group-title="vabenemium.com", CBS EUROPA HD
+http://sansat.net:25461/02024714519528/8193779560/94835
+#EXTINF:-1 tvg-ID="polsatromans.pl" tvg-name=" POLSAT ROMANS" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/" group-title="vabenemium.com", POLSAT ROMANS
+http://sansat.net:25461/02024714519528/8193779560/94836
+#EXTINF:-1 tvg-ID="comedycentral.pl" tvg-name=" COMEDY CENTRAL HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Comedy_Central_HD.png" group-title="vabenemium.com", COMEDY CENTRAL HD
+http://sansat.net:25461/02024714519528/8193779560/94837
+#EXTINF:-1 tvg-ID="tlc.pl" tvg-name=" TLC HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TLC_HD.png" group-title="vabenemium.com", TLC HD
+http://sansat.net:25461/02024714519528/8193779560/94838
+#EXTINF:-1 tvg-ID="paramount.pl" tvg-name=" PARAMOUNT CHANNEL HD." tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Paramount_Channel_HD.png" group-title="vabenemium.com", PARAMOUNT CHANNEL HD.
+http://sansat.net:25461/02024714519528/8193779560/94839
+#EXTINF:-1 tvg-ID="amc.pl" tvg-name=" AMC" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/AMC.png" group-title="vabenemium.com", AMC
+http://sansat.net:25461/02024714519528/8193779560/94840
+#EXTINF:-1 tvg-ID="tvpkultura.pl" tvg-name=" TVP KULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVP_Kultura_HD.png" group-title="vabenemium.com", TVP KULTURA
+http://sansat.net:25461/02024714519528/8193779560/94841
+#EXTINF:-1 tvg-ID="travelchannel.pl" tvg-name=" TRAVEL CHANNEL HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Travel_Channel HD.png" group-title="vabenemium.com", TRAVEL CHANNEL HD
+http://sansat.net:25461/02024714519528/8193779560/94842
+#EXTINF:-1 tvg-ID="tvnfabula.pl" tvg-name=" TVN FABULA" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVN_Fabula.png" group-title="vabenemium.com", TVN FABULA
+http://sansat.net:25461/02024714519528/8193779560/94843
+#EXTINF:-1 tvg-ID="tvnturbo.pl" tvg-name=" TVN TURBO HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVN_Turbo_HD.png" group-title="vabenemium.com", TVN TURBO HD
+http://sansat.net:25461/02024714519528/8193779560/94844
+#EXTINF:-1 tvg-ID="adventure.pl" tvg-name=" ADVENTURE HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/ADVENTURE_HD.png" group-title="vabenemium.com", ADVENTURE HD
+http://sansat.net:25461/02024714519528/8193779560/94845
+#EXTINF:-1 tvg-ID="davincilearning.pl" tvg-name=" DA VINCI" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Da_Vinci.png" group-title="vabenemium.com", DA VINCI
+http://sansat.net:25461/02024714519528/8193779560/94846
+#EXTINF:-1 tvg-ID="polsatfood.pl" tvg-name=" FOOD NETWORK HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Food Network_HD.png" group-title="vabenemium.com", FOOD NETWORK HD
+http://sansat.net:25461/02024714519528/8193779560/94847
+#EXTINF:-1 tvg-ID="domo.pl" tvg-name=" DOMO HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+DOMO_HD.png" group-title="vabenemium.com", DOMO HD
+http://sansat.net:25461/02024714519528/8193779560/94848
+#EXTINF:-1 tvg-ID="" tvg-name=" DTX" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/DTX.png" group-title="vabenemium.com", DTX
+http://sansat.net:25461/02024714519528/8193779560/94849
+#EXTINF:-1 tvg-ID="" tvg-name="===== PL GENERAL =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/POLONIA.png" group-title="vabenemium.com",===== PL GENERAL =====
+http://sansat.net:25461/02024714519528/8193779560/94850
+#EXTINF:-1 tvg-ID="fokustv.pl" tvg-name=" FOKUS TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Fokus_TV.png" group-title="vabenemium.com", FOKUS TV
+http://sansat.net:25461/02024714519528/8193779560/94851
+#EXTINF:-1 tvg-ID="kuchniaplus.pl" tvg-name=" KUCHNIA HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+KUCHNIA.png" group-title="vabenemium.com", KUCHNIA HD
+http://sansat.net:25461/02024714519528/8193779560/94852
+#EXTINF:-1 tvg-ID="motowizja.pl" tvg-name=" MOTOWIZJA TV HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Motowizja_HD.png" group-title="vabenemium.com", MOTOWIZJA TV HD
+http://sansat.net:25461/02024714519528/8193779560/94853
+#EXTINF:-1 tvg-ID="nutatv.pl" tvg-name=" NUTA TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/" group-title="vabenemium.com", NUTA TV
+http://sansat.net:25461/02024714519528/8193779560/94854
+#EXTINF:-1 tvg-ID="powertv.pl" tvg-name=" POWER TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/" group-title="vabenemium.com", POWER TV
+http://sansat.net:25461/02024714519528/8193779560/94855
+#EXTINF:-1 tvg-ID="tvpuls2.pl" tvg-name=" PULS 2" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Puls_2.png" group-title="vabenemium.com", PULS 2
+http://sansat.net:25461/02024714519528/8193779560/94856
+#EXTINF:-1 tvg-ID="romancetv.pl" tvg-name=" ROMANCE TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Romance_TV.png" group-title="vabenemium.com", ROMANCE TV
+http://sansat.net:25461/02024714519528/8193779560/94858
+#EXTINF:-1 tvg-ID="wp.pl" tvg-name=" WP" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/WP.png" group-title="vabenemium.com", WP
+http://sansat.net:25461/02024714519528/8193779560/94859
+#EXTINF:-1 tvg-ID="activefamily.pl" tvg-name=" ACTIVE FAMILY" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Active_Family.png" group-title="vabenemium.com", ACTIVE FAMILY
+http://sansat.net:25461/02024714519528/8193779560/94860
+#EXTINF:-1 tvg-ID="bbcbrit.pl" tvg-name=" BBC BRIT" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/BBC_Brit.png" group-title="vabenemium.com", BBC BRIT
+http://sansat.net:25461/02024714519528/8193779560/94861
+#EXTINF:-1 tvg-ID="bbclifestyle.pl" tvg-name=" BBC LIFESTYLE HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/BBC_Lifestyle_HD.png" group-title="vabenemium.com", BBC LIFESTYLE HD
+http://sansat.net:25461/02024714519528/8193779560/94862
+#EXTINF:-1 tvg-ID="bbcfirst.pl" tvg-name=" BBC FIRST HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/BBC_FIRST.png" group-title="vabenemium.com", BBC FIRST HD
+http://sansat.net:25461/02024714519528/8193779560/94863
+#EXTINF:-1 tvg-ID="" tvg-name="===== PL DZIECI =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/POLONIA.png" group-title="vabenemium.com",===== PL DZIECI =====
+http://sansat.net:25461/02024714519528/8193779560/94865
+#EXTINF:-1 tvg-ID="babytv.pl" tvg-name=" BABY TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/BabyTV.png" group-title="vabenemium.com", BABY TV
+http://sansat.net:25461/02024714519528/8193779560/94866
+#EXTINF:-1 tvg-ID="jimjam.pl" tvg-name=" POLSAT JIM JAM" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Jim_Jam.png" group-title="vabenemium.com", POLSAT JIM JAM
+http://sansat.net:25461/02024714519528/8193779560/94867
+#EXTINF:-1 tvg-ID="boomerang.pl" tvg-name=" BOOMERANG HD" tvg-logo="http://vodkom.com:25461/Logo/PICONS/BOOMERANG_TV_HD.png" group-title="vabenemium.com", BOOMERANG HD
+http://sansat.net:25461/02024714519528/8193779560/94868
+#EXTINF:-1 tvg-ID="cartoonnetwork.pl" tvg-name=" CARTOON NETWORK HD" tvg-logo="http://vodkom.com:25461/Logo/PICONS/CARTOON_HD.png" group-title="vabenemium.com", CARTOON NETWORK HD
+http://sansat.net:25461/02024714519528/8193779560/94869
+#EXTINF:-1 tvg-ID="disneyxd.pl" tvg-name=" DISNEY XD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Disney_XD.png" group-title="vabenemium.com", DISNEY XD
+http://sansat.net:25461/02024714519528/8193779560/94870
+#EXTINF:-1 tvg-ID="disneyjunior.pl" tvg-name=" DISNEY JUNIOR" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Disney_Junior.png" group-title="vabenemium.com", DISNEY JUNIOR
+http://sansat.net:25461/02024714519528/8193779560/94871
+#EXTINF:-1 tvg-ID="disneychannel.pl" tvg-name=" DISNEY CHANNEL HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Disney_Channel_HD.png" group-title="vabenemium.com", DISNEY CHANNEL HD
+http://sansat.net:25461/02024714519528/8193779560/94872
+#EXTINF:-1 tvg-ID="nickjr.pl" tvg-name=" NICK JR" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Nick_Jr.png" group-title="vabenemium.com", NICK JR
+http://sansat.net:25461/02024714519528/8193779560/94873
+#EXTINF:-1 tvg-ID="nickelodeon.pl" tvg-name=" NICKELODEON" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Nickelodeon.png" group-title="vabenemium.com", NICKELODEON
+http://sansat.net:25461/02024714519528/8193779560/94874
+#EXTINF:-1 tvg-ID="nicktoons.pl" tvg-name=" NICKTOONS HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Nicktoons_HD.png" group-title="vabenemium.com", NICKTOONS HD
+http://sansat.net:25461/02024714519528/8193779560/94875
+#EXTINF:-1 tvg-ID="teletoon.pl" tvg-name=" TELETOON HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/teleTOON+HD.png" group-title="vabenemium.com", TELETOON HD
+http://sansat.net:25461/02024714519528/8193779560/94876
+#EXTINF:-1 tvg-ID="minimini.pl" tvg-name=" MINIMINI HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/MiniMini+HD.png" group-title="vabenemium.com", MINIMINI HD
+http://sansat.net:25461/02024714519528/8193779560/94877
+#EXTINF:-1 tvg-ID="bbccbeebies.pl" tvg-name=" BBC CBEEBIES" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/BBC CBeebies.png" group-title="vabenemium.com", BBC CBEEBIES
+http://sansat.net:25461/02024714519528/8193779560/94878
+#EXTINF:-1 tvg-ID="polsatgames.pl" tvg-name=" POLSAT GAMES" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Games.png" group-title="vabenemium.com", POLSAT GAMES
+http://sansat.net:25461/02024714519528/8193779560/94879
+#EXTINF:-1 tvg-ID="" tvg-name="===== PL MUZYKA =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/POLONIA.png" group-title="vabenemium.com",===== PL MUZYKA =====
+http://sansat.net:25461/02024714519528/8193779560/94880
+#EXTINF:-1 tvg-ID="mtvlive.pl" tvg-name=" MTV LIVE HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/MTV_Live_HD.png" group-title="vabenemium.com", MTV LIVE HD
+http://sansat.net:25461/02024714519528/8193779560/94881
+#EXTINF:-1 tvg-ID="vh1.pl" tvg-name=" VH1" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/VH1_HD.png" group-title="vabenemium.com", VH1
+http://sansat.net:25461/02024714519528/8193779560/94882
+#EXTINF:-1 tvg-ID="tvprozrywka.pl" tvg-name=" TVP ROZRYWKA" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVP_Rozrywka.png" group-title="vabenemium.com", TVP ROZRYWKA
+http://sansat.net:25461/02024714519528/8193779560/94883
+#EXTINF:-1 tvg-ID="" tvg-name=" MTV ROCKS" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/" group-title="vabenemium.com", MTV ROCKS
+http://sansat.net:25461/02024714519528/8193779560/94884
+#EXTINF:-1 tvg-ID="kinopolskamuzyka.pl" tvg-name=" KINO POLSKA MUZYKA" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Kino_Polska_Muzyka.png" group-title="vabenemium.com", KINO POLSKA MUZYKA
+http://sansat.net:25461/02024714519528/8193779560/94885
+#EXTINF:-1 tvg-ID="mtvpolska.pl" tvg-name=" MTV POLSKA HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/MTV_Polska_HD.png" group-title="vabenemium.com", MTV POLSKA HD
+http://sansat.net:25461/02024714519528/8193779560/94886
+#EXTINF:-1 tvg-ID="mtvmusic24.pl" tvg-name=" MTV MUSIC" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/MTV_Music.png" group-title="vabenemium.com", MTV MUSIC
+http://sansat.net:25461/02024714519528/8193779560/94887
+#EXTINF:-1 tvg-ID="alekino.pl" tvg-name=" ALE KINO HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Ale_kino+HD.png" group-title="vabenemium.com", ALE KINO HD
+http://sansat.net:25461/02024714519528/8193779560/94888
+#EXTINF:-1 tvg-ID="" tvg-name=" TO!TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/" group-title="vabenemium.com", TO!TV
+http://sansat.net:25461/02024714519528/8193779560/94889
+#EXTINF:-1 tvg-ID="tvpabc.pl" tvg-name=" TVP ABC" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVP_ABC.png" group-title="vabenemium.com", TVP ABC
+http://sansat.net:25461/02024714519528/8193779560/94890
+#EXTINF:-1 tvg-ID="polsatcafe.pl" tvg-name=" POLSAT CAFE HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Cafe_HD.png" group-title="vabenemium.com", POLSAT CAFE HD
+http://sansat.net:25461/02024714519528/8193779560/94891
+#EXTINF:-1 tvg-ID="polsatplay.pl" tvg-name=" POLSAT PLAY HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Play_HD.png" group-title="vabenemium.com", POLSAT PLAY HD
+http://sansat.net:25461/02024714519528/8193779560/94892
+#EXTINF:-1 tvg-ID="polotv.pl" tvg-name=" POLO TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polo_TV.png" group-title="vabenemium.com", POLO TV
+http://sansat.net:25461/02024714519528/8193779560/94893
+#EXTINF:-1 tvg-ID="metrotv.pl" tvg-name=" METRO" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Metro.png" group-title="vabenemium.com", METRO
+http://sansat.net:25461/02024714519528/8193779560/94894
+#EXTINF:-1 tvg-ID="zoomtv.pl" tvg-name=" ZOOM TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Zoom_TV.png" group-title="vabenemium.com", ZOOM TV
+http://sansat.net:25461/02024714519528/8193779560/94895
+#EXTINF:-1 tvg-ID="novela.pl" tvg-name=" NOVELA TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Novela_Tv.png" group-title="vabenemium.com", NOVELA TV
+http://sansat.net:25461/02024714519528/8193779560/94896
+#EXTINF:-1 tvg-ID="sundancetv.pl" tvg-name=" SUNDANCE HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Sundance_HD.png" group-title="vabenemium.com", SUNDANCE HD
+http://sansat.net:25461/02024714519528/8193779560/94897
+#EXTINF:-1 tvg-ID="tvnstyle.pl" tvg-name=" TVN STYLE HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVN_STYLE_HD.png" group-title="vabenemium.com", TVN STYLE HD
+http://sansat.net:25461/02024714519528/8193779560/94898
+#EXTINF:-1 tvg-ID="hgtv.pl" tvg-name=" HGTV HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Nowa_TV.png" group-title="vabenemium.com", HGTV HD
+http://sansat.net:25461/02024714519528/8193779560/94900
+#EXTINF:-1 tvg-ID="nowatv.pl" tvg-name=" NOWA TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Nowa_TV.png" group-title="vabenemium.com", NOWA TV
+http://sansat.net:25461/02024714519528/8193779560/94901
+#EXTINF:-1 tvg-ID="" tvg-name=" TV OKAZJE" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TV_Okazje.png" group-title="vabenemium.com", TV OKAZJE
+http://sansat.net:25461/02024714519528/8193779560/94902
+#EXTINF:-1 tvg-ID="cbsreality.pl" tvg-name=" CBS REALITY" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CBS_Reality_HD.png" group-title="vabenemium.com", CBS REALITY
+http://sansat.net:25461/02024714519528/8193779560/94903
+#EXTINF:-1 tvg-ID="epicdramahd.pl" tvg-name=" EPIC DRAMA HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Epic_Drama_HD.png" group-title="vabenemium.com", EPIC DRAMA HD
+http://sansat.net:25461/02024714519528/8193779560/94904
+#EXTINF:-1 tvg-ID="tnt.pl" tvg-name=" TNT HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TNT_HD.png" group-title="vabenemium.com", TNT HD
+http://sansat.net:25461/02024714519528/8193779560/94905
+#EXTINF:-1 tvg-ID="polsatfilm.pl" tvg-name=" POLSAT FILM HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Film_HD.png" group-title="vabenemium.com", POLSAT FILM HD
+http://sansat.net:25461/02024714519528/8193779560/94906
+#EXTINF:-1 tvg-ID="kinotv.pl" tvg-name=" KINO TV HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Kino_TV_HD.png" group-title="vabenemium.com", KINO TV HD
+http://sansat.net:25461/02024714519528/8193779560/94907
+#EXTINF:-1 tvg-ID="stopklatka.pl" tvg-name=" STOPKLATKA TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Stopklatka.png" group-title="vabenemium.com", STOPKLATKA TV
+http://sansat.net:25461/02024714519528/8193779560/94908
+#EXTINF:-1 tvg-ID="starstv.pl" tvg-name=" STARS TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/STARS.TV.png" group-title="vabenemium.com", STARS TV
+http://sansat.net:25461/02024714519528/8193779560/94909
+#EXTINF:-1 tvg-ID="4funtv.pl" tvg-name=" 4FUN TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/4Fun.TV.png" group-title="vabenemium.com", 4FUN TV
+http://sansat.net:25461/02024714519528/8193779560/94910
+#EXTINF:-1 tvg-ID="polsatmusic.pl" tvg-name=" POLSAT MUSIC HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Music_HD.png" group-title="vabenemium.com", POLSAT MUSIC HD
+http://sansat.net:25461/02024714519528/8193779560/94911
+#EXTINF:-1 tvg-ID="voxmusic.pl" tvg-name=" VOX MUSIC TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/VOX_Music_TV.png" group-title="vabenemium.com", VOX MUSIC TV
+http://sansat.net:25461/02024714519528/8193779560/94912
+#EXTINF:-1 tvg-ID="eskarock.pl" tvg-name=" ESKA ROCK TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Eska_Rock.png" group-title="vabenemium.com", ESKA ROCK TV
+http://sansat.net:25461/02024714519528/8193779560/94913
+#EXTINF:-1 tvg-ID="eskatvextra.pl" tvg-name=" ESKA TV EXTRA" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Eska_TV_Extra.png" group-title="vabenemium.com", ESKA TV EXTRA
+http://sansat.net:25461/02024714519528/8193779560/94914
+#EXTINF:-1 tvg-ID="" tvg-name="===== PL KULTURA =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/POLONIA.png" group-title="vabenemium.com",===== PL KULTURA =====
+http://sansat.net:25461/02024714519528/8193779560/94915
+#EXTINF:-1 tvg-ID="natgeopeople.pl" tvg-name=" NAT GEO PEOPLE HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Nat_Geo_People_HD.png" group-title="vabenemium.com", NAT GEO PEOPLE HD
+http://sansat.net:25461/02024714519528/8193779560/94916
+#EXTINF:-1 tvg-ID="animalplanet.pl" tvg-name=" ANIMAL PLANET HD" tvg-logo="http://vodkom.com:25461/Logo/PICONS/ANIMAL_PLANET_HD.png" group-title="vabenemium.com", ANIMAL PLANET HD
+http://sansat.net:25461/02024714519528/8193779560/94917
+#EXTINF:-1 tvg-ID="planete.pl" tvg-name=" PLANETE HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Planete+HD.png" group-title="vabenemium.com", PLANETE HD
+http://sansat.net:25461/02024714519528/8193779560/94918
+#EXTINF:-1 tvg-ID="cipolsat.pl" tvg-name=" CI POLSAT HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CI_Polsat_HD.png" group-title="vabenemium.com", CI POLSAT HD
+http://sansat.net:25461/02024714519528/8193779560/94919
+#EXTINF:-1 tvg-ID="history.pl" tvg-name=" HISTORY HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/History_HD.png" group-title="vabenemium.com", HISTORY HD
+http://sansat.net:25461/02024714519528/8193779560/94920
+#EXTINF:-1 tvg-ID="" tvg-name=" ID HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/ID_HD.png" group-title="vabenemium.com", ID HD
+http://sansat.net:25461/02024714519528/8193779560/94921
+#EXTINF:-1 tvg-ID="tvphistoria.pl" tvg-name=" TVP HISTORIA" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVP_Historia.png" group-title="vabenemium.com", TVP HISTORIA
+http://sansat.net:25461/02024714519528/8193779560/94922
+#EXTINF:-1 tvg-ID="bbcearth.pl" tvg-name=" BBC EARTH HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/BBC_Earth_HD.png" group-title="vabenemium.com", BBC EARTH HD
+http://sansat.net:25461/02024714519528/8193779560/94923
+#EXTINF:-1 tvg-ID="history2.pl" tvg-name=" H2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/History_2_HD.png" group-title="vabenemium.com", H2 HD
+http://sansat.net:25461/02024714519528/8193779560/94924
+#EXTINF:-1 tvg-ID="polsatdoku.pl" tvg-name=" POLSAT DOKU HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Doku_HD.png" group-title="vabenemium.com", POLSAT DOKU HD
+http://sansat.net:25461/02024714519528/8193779560/94925
+#EXTINF:-1 tvg-ID="discoveryscience.pl" tvg-name=" DISCOVERY SCIENCE HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Discovery_Science_HD.png" group-title="vabenemium.com", DISCOVERY SCIENCE HD
+http://sansat.net:25461/02024714519528/8193779560/94926
+#EXTINF:-1 tvg-ID="discovery.pl" tvg-name=" DISCOVERY HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Discovery_HD.png" group-title="vabenemium.com", DISCOVERY HD
+http://sansat.net:25461/02024714519528/8193779560/94927
+#EXTINF:-1 tvg-ID="discoverylife.pl" tvg-name=" DISCOVERY LIFE HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Discovery_Life.png" group-title="vabenemium.com", DISCOVERY LIFE HD
+http://sansat.net:25461/02024714519528/8193779560/94928
+#EXTINF:-1 tvg-ID="discoveryhistoria.pl" tvg-name=" DISCOVERY HISTORIA" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Discovery_Historia.png" group-title="vabenemium.com", DISCOVERY HISTORIA
+http://sansat.net:25461/02024714519528/8193779560/94929
+#EXTINF:-1 tvg-ID="discopolomusic.pl" tvg-name=" DISCO POLO MUSIC" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Disco_Polo_Music.png" group-title="vabenemium.com", DISCO POLO MUSIC
+http://sansat.net:25461/02024714519528/8193779560/94930
+#EXTINF:-1 tvg-ID="" tvg-name=" 4FUN GOLD HITS" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/" group-title="vabenemium.com", 4FUN GOLD HITS
+http://sansat.net:25461/02024714519528/8193779560/94931
+#EXTINF:-1 tvg-ID="4funfitdance.pl" tvg-name=" 4FUN DANCE" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/4Fun_Dance.png" group-title="vabenemium.com", 4FUN DANCE
+http://sansat.net:25461/02024714519528/8193779560/94932
+#EXTINF:-1 tvg-ID="polsatviasatexpl.pl" tvg-name=" POLSAT VIASAT EXPLORE HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Viasat_Explore_HD.png" group-title="vabenemium.com", POLSAT VIASAT EXPLORE HD
+http://sansat.net:25461/02024714519528/8193779560/94933
+#EXTINF:-1 tvg-ID="natgeowild.pl" tvg-name=" NAT GEO WILD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/National_Geographic_Wild_HD.png" group-title="vabenemium.com", NAT GEO WILD
+http://sansat.net:25461/02024714519528/8193779560/94934
+#EXTINF:-1 tvg-ID="waterplanet.pl" tvg-name=" WATER PLANET" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Water_Planet.png" group-title="vabenemium.com", WATER PLANET
+http://sansat.net:25461/02024714519528/8193779560/94935
+#EXTINF:-1 tvg-ID="polsatviasathist.pl" tvg-name=" POLSAT VIASAT HISTORY HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Viasat_History_HD.png" group-title="vabenemium.com", POLSAT VIASAT HISTORY HD
+http://sansat.net:25461/02024714519528/8193779560/94936
+#EXTINF:-1 tvg-ID="polsatviasatnature.pl" tvg-name=" POLSAT VIASAT NATURE HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Viasat_Nature_HD.png" group-title="vabenemium.com", POLSAT VIASAT NATURE HD
+http://sansat.net:25461/02024714519528/8193779560/94937
+#EXTINF:-1 tvg-ID="natgeo.pl" tvg-name=" NATIONAL GEO" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/NATIONAL _GEO_HD.png" group-title="vabenemium.com", NATIONAL GEO
+http://sansat.net:25461/02024714519528/8193779560/94938
+#EXTINF:-1 tvg-ID="" tvg-name=" CRIME AND INVESTIGATION HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Crime+Inv.HD.png" group-title="vabenemium.com", CRIME AND INVESTIGATION HD
+http://sansat.net:25461/02024714519528/8193779560/94939
+#EXTINF:-1 tvg-ID="" tvg-name="===== PL SPORT =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/POLONIA.png" group-title="vabenemium.com",===== PL SPORT =====
+http://sansat.net:25461/02024714519528/8193779560/94940
+#EXTINF:-1 tvg-ID="polsatsportextra.pl" tvg-name=" POLSAT SPORT EXTRA HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Extra_HD.png" group-title="vabenemium.com", POLSAT SPORT EXTRA HD
+http://sansat.net:25461/02024714519528/8193779560/94941
+#EXTINF:-1 tvg-ID="polsatsportfight.pl" tvg-name=" POLSAT SPORT FIGHT HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Fight_HD.png" group-title="vabenemium.com", POLSAT SPORT FIGHT HD
+http://sansat.net:25461/02024714519528/8193779560/94942
+#EXTINF:-1 tvg-ID="canalplussport.pl" tvg-name=" CANAL SPORT HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+SPORT_HD.png" group-title="vabenemium.com", CANAL SPORT HD
+http://sansat.net:25461/02024714519528/8193779560/94943
+#EXTINF:-1 tvg-ID="canalplussport2.pl" tvg-name=" CANAL SPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+SPORT_2_HD.png" group-title="vabenemium.com", CANAL SPORT 2 HD
+http://sansat.net:25461/02024714519528/8193779560/94944
+#EXTINF:-1 tvg-ID="canalplussport3.pl" tvg-name=" CANAL SPORT 3 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+SPORT_3_HD.png" group-title="vabenemium.com", CANAL SPORT 3 HD
+http://sansat.net:25461/02024714519528/8193779560/94945
+#EXTINF:-1 tvg-ID="canalplussport4.pl" tvg-name=" CANALSPORT 4 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+SPORT_4_HD.png" group-title="vabenemium.com", CANALSPORT 4 HD
+http://sansat.net:25461/02024714519528/8193779560/94946
+#EXTINF:-1 tvg-ID="nsport.pl" tvg-name=" NSPORT" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/nSport+.png" group-title="vabenemium.com", NSPORT
+http://sansat.net:25461/02024714519528/8193779560/94947
+#EXTINF:-1 tvg-ID="sportklub.pl" tvg-name=" SPORT KLUB HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Sportklub_HD.png" group-title="vabenemium.com", SPORT KLUB HD
+http://sansat.net:25461/02024714519528/8193779560/94948
+#EXTINF:-1 tvg-ID="eurosport1.pl" tvg-name=" EUROSPORT 1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Eurosport_1_HD.png" group-title="vabenemium.com", EUROSPORT 1 HD
+http://sansat.net:25461/02024714519528/8193779560/94949
+#EXTINF:-1 tvg-ID="eurosport2.pl" tvg-name=" EUROSPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Eurosport_2_HD.png" group-title="vabenemium.com", EUROSPORT 2 HD
+http://sansat.net:25461/02024714519528/8193779560/94950
+#EXTINF:-1 tvg-ID="polsatsport.pl" tvg-name=" POLSAT SPORT HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_HD.png" group-title="vabenemium.com", POLSAT SPORT HD
+http://sansat.net:25461/02024714519528/8193779560/94951
+#EXTINF:-1 tvg-ID="extremesports.pl" tvg-name=" EXTREME SPORTS HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Extreme_Sports_HD.png" group-title="vabenemium.com", EXTREME SPORTS HD
+http://sansat.net:25461/02024714519528/8193779560/94952
+#EXTINF:-1 tvg-ID="polsatsportpremium1.pl" tvg-name=" POLSAT SPORT PREM. 1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Premium_1.png" group-title="vabenemium.com", POLSAT SPORT PREM. 1 HD
+http://sansat.net:25461/02024714519528/8193779560/94953
+#EXTINF:-1 tvg-ID="polsatsportpremium2.pl" tvg-name=" POLSAT SPORT PREM. 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Premium_2.png" group-title="vabenemium.com", POLSAT SPORT PREM. 2 HD
+http://sansat.net:25461/02024714519528/8193779560/94954
+#EXTINF:-1 tvg-ID="polsatsportpremium3ppv.pl" tvg-name=" POLSAT SPORT PREM. 3 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Premium_PPV3.png" group-title="vabenemium.com", POLSAT SPORT PREM. 3 HD
+http://sansat.net:25461/02024714519528/8193779560/94955
+#EXTINF:-1 tvg-ID="polsatsportpremium4ppv.pl" tvg-name=" POLSAT SPORT PREM. 4 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Premium_PPV4.png" group-title="vabenemium.com", POLSAT SPORT PREM. 4 HD
+http://sansat.net:25461/02024714519528/8193779560/94956
+#EXTINF:-1 tvg-ID="polsatsportpremium5ppv.pl" tvg-name=" POLSAT SPORT PREM. 5 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Premium_PPV5.png" group-title="vabenemium.com", POLSAT SPORT PREM. 5 HD
+http://sansat.net:25461/02024714519528/8193779560/94957
+#EXTINF:-1 tvg-ID="polsatsportpremium6ppv.pl" tvg-name=" POLSAT SPORT PREM. 6 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Premium_PPV6.png" group-title="vabenemium.com", POLSAT SPORT PREM. 6 HD
+http://sansat.net:25461/02024714519528/8193779560/94958
+#EXTINF:-1 tvg-ID="elevensports1.pl" tvg-name=" ELEVENSPORT 1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Eleven_Sports_1_HD.png" group-title="vabenemium.com", ELEVENSPORT 1 HD
+http://sansat.net:25461/02024714519528/8193779560/94959
+#EXTINF:-1 tvg-ID="elevensports2.pl" tvg-name=" ELEVENSPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Eleven_Sports_2_HD.png" group-title="vabenemium.com", ELEVENSPORT 2 HD
+http://sansat.net:25461/02024714519528/8193779560/94960
+#EXTINF:-1 tvg-ID="elevensports3.pl" tvg-name=" ELEVENSPORT 3 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Eleven_Sports_3_HD.png" group-title="vabenemium.com", ELEVENSPORT 3 HD
+http://sansat.net:25461/02024714519528/8193779560/94961
+#EXTINF:-1 tvg-ID="elevensportsports4.pl" tvg-name=" ELEVENSPORT 4 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/ELEVEN_SPORTS_4_HD.png" group-title="vabenemium.com", ELEVENSPORT 4 HD
+http://sansat.net:25461/02024714519528/8193779560/94962
+#EXTINF:-1 tvg-ID="golfchannel.pl" tvg-name=" GOLF CHANNEL" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Golf_Channel.png" group-title="vabenemium.com", GOLF CHANNEL
+http://sansat.net:25461/02024714519528/8193779560/94963
+#EXTINF:-1 tvg-ID="fightbox.pl" tvg-name=" FIGHTBOX HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Fightbox_HD.png" group-title="vabenemium.com", FIGHTBOX HD
+http://sansat.net:25461/02024714519528/8193779560/94964
+#EXTINF:-1 tvg-ID="fightklub.pl" tvg-name=" FIGHTKLUB HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/FightklubHD.png" group-title="vabenemium.com", FIGHTKLUB HD
+http://sansat.net:25461/02024714519528/8193779560/94965
+#EXTINF:-1 tvg-ID="tvpsport.pl" tvg-name=" TVP SPORT HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVP_Sport_HD.png" group-title="vabenemium.com", TVP SPORT HD
+http://sansat.net:25461/02024714519528/8193779560/94967
+#EXTINF:-1 tvg-ID="polsatsportnews.pl" tvg-name=" POLSAT SPORT NEWS HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_News_HD.png" group-title="vabenemium.com", POLSAT SPORT NEWS HD
+http://sansat.net:25461/02024714519528/8193779560/94968
+#EXTINF:-1 tvg-ID="" tvg-name="===== PL INFORMACJA =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/POLONIA.png" group-title="vabenemium.com",===== PL INFORMACJA =====
+http://sansat.net:25461/02024714519528/8193779560/94969
+#EXTINF:-1 tvg-ID="tvn24.pl" tvg-name=" TVN 24 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVN_24_HD.png" group-title="vabenemium.com", TVN 24 HD
+http://sansat.net:25461/02024714519528/8193779560/94970
+#EXTINF:-1 tvg-ID="tvn24biznesswiat.pl" tvg-name=" TVN24 BIS HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVN24_BiS_HD.png" group-title="vabenemium.com", TVN24 BIS HD
+http://sansat.net:25461/02024714519528/8193779560/94971
+#EXTINF:-1 tvg-ID="polsatnews.pl" tvg-name=" POLSAT NEWS HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_News_HD.png" group-title="vabenemium.com", POLSAT NEWS HD
+http://sansat.net:25461/02024714519528/8193779560/94972
+#EXTINF:-1 tvg-ID="polsatnews2.pl" tvg-name=" POLSAT NEWS 2" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_News_2.png" group-title="vabenemium.com", POLSAT NEWS 2
+http://sansat.net:25461/02024714519528/8193779560/94973
+#EXTINF:-1 tvg-ID="superstacja.pl" tvg-name=" SUPERSTACJA" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Super_Polsat.png" group-title="vabenemium.com", SUPERSTACJA
+http://sansat.net:25461/02024714519528/8193779560/94974
+#EXTINF:-1 tvg-ID="tvrepublika.pl" tvg-name=" TV REPUBLIKA" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TV_Republika.png" group-title="vabenemium.com", TV REPUBLIKA
+http://sansat.net:25461/02024714519528/8193779560/94975
+#EXTINF:-1 tvg-ID="wPolsce.pl" tvg-name=" WPOLSCE.PL" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/wPolsce.pl.png" group-title="vabenemium.com", WPOLSCE.PL
+http://sansat.net:25461/02024714519528/8193779560/94976
+#EXTINF:-1 tvg-ID="eskatv.pl" tvg-name=" ESKA TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Eska_TV.png" group-title="vabenemium.com", ESKA TV
+http://sansat.net:25461/02024714519528/8193779560/94977
+#EXTINF:-1 tvg-ID="tvpinfo.pl" tvg-name=" TVP INFO HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVP_INFO_HD.png" group-title="vabenemium.com", TVP INFO HD
+http://sansat.net:25461/02024714519528/8193779560/94978
+#EXTINF:-1 tvg-ID="studiomed.pl" tvg-name=" STUDIOMED TV HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/StudioMed_TV_HD.png" group-title="vabenemium.com", STUDIOMED TV HD
+http://sansat.net:25461/02024714519528/8193779560/94979
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA POLSKA 4" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/viaplay.png" group-title="vabenemium.com", VIAPLAY XTRA POLSKA 4
+http://sansat.net:25461/02024714519528/8193779560/260066
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA POLSKA 5" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/viaplay.png" group-title="vabenemium.com", VIAPLAY XTRA POLSKA 5
+http://sansat.net:25461/02024714519528/8193779560/260067
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA POLSKA 6" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/viaplay.png" group-title="vabenemium.com", VIAPLAY XTRA POLSKA 6
+http://sansat.net:25461/02024714519528/8193779560/260068
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA POLSKA 7" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/viaplay.png" group-title="vabenemium.com", VIAPLAY XTRA POLSKA 7
+http://sansat.net:25461/02024714519528/8193779560/260069
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 1 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 1 HD
+http://sansat.net:25461/02024714519528/8193779560/362678
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 2 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 2 HD
+http://sansat.net:25461/02024714519528/8193779560/362679
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 3 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 3 HD
+http://sansat.net:25461/02024714519528/8193779560/362680
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 4 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 4 HD
+http://sansat.net:25461/02024714519528/8193779560/362681
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 5 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 5 HD
+http://sansat.net:25461/02024714519528/8193779560/362682
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 6 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 6 HD
+http://sansat.net:25461/02024714519528/8193779560/362683
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 7 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 7 HD
+http://sansat.net:25461/02024714519528/8193779560/362684
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 8 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 8 HD
+http://sansat.net:25461/02024714519528/8193779560/362685
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 9 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 9 HD
+http://sansat.net:25461/02024714519528/8193779560/362686
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 10 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 10 HD
+http://sansat.net:25461/02024714519528/8193779560/362687
+#EXTINF:-1 tvg-ID="" tvg-name="VIAPLAY XTRA 11 HD" tvg-logo="" group-title="vabenemium.com",VIAPLAY XTRA 11 HD
+http://sansat.net:25461/02024714519528/8193779560/362688
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 12 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 12 HD
+http://sansat.net:25461/02024714519528/8193779560/362689
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 13 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 13 HD
+http://sansat.net:25461/02024714519528/8193779560/362690
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 14 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 14 HD
+http://sansat.net:25461/02024714519528/8193779560/362691
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 15 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 15 HD
+http://sansat.net:25461/02024714519528/8193779560/362692
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 16 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 16 HD
+http://sansat.net:25461/02024714519528/8193779560/362693
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 17 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 17 HD
+http://sansat.net:25461/02024714519528/8193779560/362694
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 18 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 18 HD
+http://sansat.net:25461/02024714519528/8193779560/362695
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 19 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 19 HD
+http://sansat.net:25461/02024714519528/8193779560/362696
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 20 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 20 HD
+http://sansat.net:25461/02024714519528/8193779560/362697
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 21 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 21 HD
+http://sansat.net:25461/02024714519528/8193779560/362698
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 22 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 22 HD
+http://sansat.net:25461/02024714519528/8193779560/362699
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 23 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 23 HD
+http://sansat.net:25461/02024714519528/8193779560/362700
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 25 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 25 HD
+http://sansat.net:25461/02024714519528/8193779560/362701
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 26 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 26 HD
+http://sansat.net:25461/02024714519528/8193779560/362702
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 40 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 40 HD
+http://sansat.net:25461/02024714519528/8193779560/362703
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 44 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 44 HD
+http://sansat.net:25461/02024714519528/8193779560/362704
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 48 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 48 HD
+http://sansat.net:25461/02024714519528/8193779560/362705
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 49 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 49 HD
+http://sansat.net:25461/02024714519528/8193779560/362706
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 50 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 50 HD
+http://sansat.net:25461/02024714519528/8193779560/362707
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 63 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 63 HD
+http://sansat.net:25461/02024714519528/8193779560/362708
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 64 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 64 HD
+http://sansat.net:25461/02024714519528/8193779560/362709
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 65 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 65 HD
+http://sansat.net:25461/02024714519528/8193779560/362710
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 66 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 66 HD
+http://sansat.net:25461/02024714519528/8193779560/362711
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 67 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 67 HD
+http://sansat.net:25461/02024714519528/8193779560/362712
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 68 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 68 HD
+http://sansat.net:25461/02024714519528/8193779560/362713
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 69 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 69 HD
+http://sansat.net:25461/02024714519528/8193779560/362714
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 70 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 70 HD
+http://sansat.net:25461/02024714519528/8193779560/362715
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 71 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 71 HD
+http://sansat.net:25461/02024714519528/8193779560/362716
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 72 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 72 HD
+http://sansat.net:25461/02024714519528/8193779560/362717
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 73 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 73 HD
+http://sansat.net:25461/02024714519528/8193779560/362718
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 74 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 74 HD
+http://sansat.net:25461/02024714519528/8193779560/362719
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 75 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 75 HD
+http://sansat.net:25461/02024714519528/8193779560/362720
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 76 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 76 HD
+http://sansat.net:25461/02024714519528/8193779560/362721
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 77 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 77 HD
+http://sansat.net:25461/02024714519528/8193779560/362722
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 78 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 78 HD
+http://sansat.net:25461/02024714519528/8193779560/362723
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 79 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 79 HD
+http://sansat.net:25461/02024714519528/8193779560/362724
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 80 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 80 HD
+http://sansat.net:25461/02024714519528/8193779560/362725
+#EXTINF:-1 tvg-ID="" tvg-name=" VIAPLAY XTRA 81 HD" tvg-logo="" group-title="vabenemium.com", VIAPLAY XTRA 81 HD
+http://sansat.net:25461/02024714519528/8193779560/362726
+#EXTINF:-1 tvg-ID="" tvg-name=" TVP Kobieta HD" tvg-logo="" group-title="vabenemium.com", TVP Kobieta HD
+http://sansat.net:25461/02024714519528/8193779560/448887
+#EXTINF:-1 tvg-ID="" tvg-name="  TV TRWAM" tvg-logo="" group-title="vabenemium.com",  TV TRWAM
+http://sansat.net:25461/02024714519528/8193779560/448888
+#EXTINF:-1 tvg-ID="" tvg-name=" iTVN" tvg-logo="" group-title="vabenemium.com", iTVN
+http://sansat.net:25461/02024714519528/8193779560/448889
+#EXTINF:-1 tvg-ID="" tvg-name=" iTVN Extra" tvg-logo="" group-title="vabenemium.com", iTVN Extra
+http://sansat.net:25461/02024714519528/8193779560/448890
+#EXTINF:-1 tvg-ID="" tvg-name=" Polsat 1" tvg-logo="" group-title="vabenemium.com", Polsat 1
+http://sansat.net:25461/02024714519528/8193779560/448891
+#EXTINF:-1 tvg-ID="" tvg-name=" ANTENA SD" tvg-logo="" group-title="vabenemium.com", ANTENA SD
+http://sansat.net:25461/02024714519528/8193779560/448892
+#EXTINF:-1 tvg-ID="" tvg-name=" TVC SD" tvg-logo="" group-title="vabenemium.com", TVC SD
+http://sansat.net:25461/02024714519528/8193779560/448893
+#EXTINF:-1 tvg-ID="" tvg-name=" BIZNES24 HD" tvg-logo="" group-title="vabenemium.com", BIZNES24 HD
+http://sansat.net:25461/02024714519528/8193779560/448894
+#EXTINF:-1 tvg-ID="" tvg-name="|PL-8K| CANAL+ 4K" tvg-logo="" group-title="vabenemium.com",|PL-8K| CANAL+ 4K
+http://sansat.net:25461/02024714519528/8193779560/448895
+#EXTINF:-1 tvg-ID="" tvg-name=" Canal+ 4K Ultra HD" tvg-logo="" group-title="vabenemium.com", Canal+ 4K Ultra HD
+http://sansat.net:25461/02024714519528/8193779560/448896
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL + PREMIUM HD" tvg-logo="" group-title="vabenemium.com", CANAL + PREMIUM HD
+http://sansat.net:25461/02024714519528/8193779560/448897
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL + NOW" tvg-logo="" group-title="vabenemium.com", CANAL + NOW
+http://sansat.net:25461/02024714519528/8193779560/448898
+#EXTINF:-1 tvg-ID="" tvg-name=" HomeTV HD" tvg-logo="" group-title="vabenemium.com", HomeTV HD
+http://sansat.net:25461/02024714519528/8193779560/448899
+#EXTINF:-1 tvg-ID="" tvg-name=" KINO POLSKA HD" tvg-logo="" group-title="vabenemium.com", KINO POLSKA HD
+http://sansat.net:25461/02024714519528/8193779560/448900
+#EXTINF:-1 tvg-ID="" tvg-name=" NOVELAS+" tvg-logo="" group-title="vabenemium.com", NOVELAS+
+http://sansat.net:25461/02024714519528/8193779560/448901
+#EXTINF:-1 tvg-ID="" tvg-name=" TVP POLONIA" tvg-logo="" group-title="vabenemium.com", TVP POLONIA
+http://sansat.net:25461/02024714519528/8193779560/448902
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL + KUCHINIA HD" tvg-logo="" group-title="vabenemium.com", CANAL + KUCHINIA HD
+http://sansat.net:25461/02024714519528/8193779560/448903
+#EXTINF:-1 tvg-ID="" tvg-name=" Top Movies Polska" tvg-logo="" group-title="vabenemium.com", Top Movies Polska
+http://sansat.net:25461/02024714519528/8193779560/448904
+#EXTINF:-1 tvg-ID="" tvg-name=" Dizi HD" tvg-logo="" group-title="vabenemium.com", Dizi HD
+http://sansat.net:25461/02024714519528/8193779560/448905
+#EXTINF:-1 tvg-ID="" tvg-name=" FilMax" tvg-logo="" group-title="vabenemium.com", FilMax
+http://sansat.net:25461/02024714519528/8193779560/448906
+#EXTINF:-1 tvg-ID="" tvg-name=" COMEDY CENTRAL EXTRA" tvg-logo="" group-title="vabenemium.com", COMEDY CENTRAL EXTRA
+http://sansat.net:25461/02024714519528/8193779560/448907
+#EXTINF:-1 tvg-ID="" tvg-name=" SUPERSTACJA HD" tvg-logo="" group-title="vabenemium.com", SUPERSTACJA HD
+http://sansat.net:25461/02024714519528/8193779560/448908
+#EXTINF:-1 tvg-ID="" tvg-name=" METRO SD" tvg-logo="" group-title="vabenemium.com", METRO SD
+http://sansat.net:25461/02024714519528/8193779560/448909
+#EXTINF:-1 tvg-ID="" tvg-name=" RED CARPET TV HD" tvg-logo="" group-title="vabenemium.com", RED CARPET TV HD
+http://sansat.net:25461/02024714519528/8193779560/448910
+#EXTINF:-1 tvg-ID="" tvg-name=" NICK SD" tvg-logo="" group-title="vabenemium.com", NICK SD
+http://sansat.net:25461/02024714519528/8193779560/448911
+#EXTINF:-1 tvg-ID="" tvg-name=" TEENNICK HD" tvg-logo="" group-title="vabenemium.com", TEENNICK HD
+http://sansat.net:25461/02024714519528/8193779560/448912
+#EXTINF:-1 tvg-ID="" tvg-name=" 4FUN KIDS SD" tvg-logo="" group-title="vabenemium.com", 4FUN KIDS SD
+http://sansat.net:25461/02024714519528/8193779560/448913
+#EXTINF:-1 tvg-ID="" tvg-name=" NICK MUSIC SD" tvg-logo="" group-title="vabenemium.com", NICK MUSIC SD
+http://sansat.net:25461/02024714519528/8193779560/448914
+#EXTINF:-1 tvg-ID="" tvg-name=" MTV 90S SD" tvg-logo="" group-title="vabenemium.com", MTV 90S SD
+http://sansat.net:25461/02024714519528/8193779560/448915
+#EXTINF:-1 tvg-ID="" tvg-name=" NUTA TV SD" tvg-logo="" group-title="vabenemium.com", NUTA TV SD
+http://sansat.net:25461/02024714519528/8193779560/448916
+#EXTINF:-1 tvg-ID="" tvg-name=" MTV 00S SD" tvg-logo="" group-title="vabenemium.com", MTV 00S SD
+http://sansat.net:25461/02024714519528/8193779560/448917
+#EXTINF:-1 tvg-ID="" tvg-name=" Clubbing TV HD" tvg-logo="" group-title="vabenemium.com", Clubbing TV HD
+http://sansat.net:25461/02024714519528/8193779560/448918
+#EXTINF:-1 tvg-ID="" tvg-name=" Clubbing TV 2" tvg-logo="" group-title="vabenemium.com", Clubbing TV 2
+http://sansat.net:25461/02024714519528/8193779560/448919
+#EXTINF:-1 tvg-ID="" tvg-name=" Clubbing TV 3" tvg-logo="" group-title="vabenemium.com", Clubbing TV 3
+http://sansat.net:25461/02024714519528/8193779560/448920
+#EXTINF:-1 tvg-ID="" tvg-name=" Dance TV" tvg-logo="" group-title="vabenemium.com", Dance TV
+http://sansat.net:25461/02024714519528/8193779560/448921
+#EXTINF:-1 tvg-ID="" tvg-name=" Dance Trippin TV (Techno)" tvg-logo="" group-title="vabenemium.com", Dance Trippin TV (Techno)
+http://sansat.net:25461/02024714519528/8193779560/448922
+#EXTINF:-1 tvg-ID="" tvg-name=" Dance Trippin TV (Tech House)" tvg-logo="" group-title="vabenemium.com", Dance Trippin TV (Tech House)
+http://sansat.net:25461/02024714519528/8193779560/448923
+#EXTINF:-1 tvg-ID="" tvg-name=" Dance Trippin TV (House)" tvg-logo="" group-title="vabenemium.com", Dance Trippin TV (House)
+http://sansat.net:25461/02024714519528/8193779560/448924
+#EXTINF:-1 tvg-ID="" tvg-name=" Dance Trippin TV (EDM Mainstage)" tvg-logo="" group-title="vabenemium.com", Dance Trippin TV (EDM Mainstage)
+http://sansat.net:25461/02024714519528/8193779560/448925
+#EXTINF:-1 tvg-ID="" tvg-name=" Dance Trippin TV (Melodic Tech)" tvg-logo="" group-title="vabenemium.com", Dance Trippin TV (Melodic Tech)
+http://sansat.net:25461/02024714519528/8193779560/448926
+#EXTINF:-1 tvg-ID="" tvg-name=" Dance Trippin TV (Minimal/Deep Tech)" tvg-logo="" group-title="vabenemium.com", Dance Trippin TV (Minimal/Deep Tech)
+http://sansat.net:25461/02024714519528/8193779560/448927
+#EXTINF:-1 tvg-ID="" tvg-name=" Dance Trippin TV (Deep House)" tvg-logo="" group-title="vabenemium.com", Dance Trippin TV (Deep House)
+http://sansat.net:25461/02024714519528/8193779560/448928
+#EXTINF:-1 tvg-ID="" tvg-name=" TVP DOKUMENT HD" tvg-logo="" group-title="vabenemium.com", TVP DOKUMENT HD
+http://sansat.net:25461/02024714519528/8193779560/448929
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL + DOKUMENT HD" tvg-logo="" group-title="vabenemium.com", CANAL + DOKUMENT HD
+http://sansat.net:25461/02024714519528/8193779560/448930
+#EXTINF:-1 tvg-ID="" tvg-name=" HISTORIA SD" tvg-logo="" group-title="vabenemium.com", HISTORIA SD
+http://sansat.net:25461/02024714519528/8193779560/448931
+#EXTINF:-1 tvg-ID="" tvg-name=" InUltra UHD" tvg-logo="" group-title="vabenemium.com", InUltra UHD
+http://sansat.net:25461/02024714519528/8193779560/448932
+#EXTINF:-1 tvg-ID="" tvg-name=" Ultra TV 4K" tvg-logo="" group-title="vabenemium.com", Ultra TV 4K
+http://sansat.net:25461/02024714519528/8193779560/448933
+#EXTINF:-1 tvg-ID="" tvg-name=" 1 Liga KANAŁ 1" tvg-logo="" group-title="vabenemium.com", 1 Liga KANAŁ 1
+http://sansat.net:25461/02024714519528/8193779560/448934
+#EXTINF:-1 tvg-ID="" tvg-name=" 1 Liga KANAŁ 2" tvg-logo="" group-title="vabenemium.com", 1 Liga KANAŁ 2
+http://sansat.net:25461/02024714519528/8193779560/448935
+#EXTINF:-1 tvg-ID="" tvg-name=" 1 Liga KANAŁ 3" tvg-logo="" group-title="vabenemium.com", 1 Liga KANAŁ 3
+http://sansat.net:25461/02024714519528/8193779560/448936
+#EXTINF:-1 tvg-ID="" tvg-name=" 2 Liga KANAŁ 1" tvg-logo="" group-title="vabenemium.com", 2 Liga KANAŁ 1
+http://sansat.net:25461/02024714519528/8193779560/448937
+#EXTINF:-1 tvg-ID="" tvg-name=" 2 Liga KANAŁ 2" tvg-logo="" group-title="vabenemium.com", 2 Liga KANAŁ 2
+http://sansat.net:25461/02024714519528/8193779560/448938
+#EXTINF:-1 tvg-ID="" tvg-name=" 2 Liga KANAŁ 3" tvg-logo="" group-title="vabenemium.com", 2 Liga KANAŁ 3
+http://sansat.net:25461/02024714519528/8193779560/448939
+#EXTINF:-1 tvg-ID="" tvg-name=" 2 Liga KANAŁ 4" tvg-logo="" group-title="vabenemium.com", 2 Liga KANAŁ 4
+http://sansat.net:25461/02024714519528/8193779560/448940
+#EXTINF:-1 tvg-ID="" tvg-name=" 2 Liga KANAŁ 5" tvg-logo="" group-title="vabenemium.com", 2 Liga KANAŁ 5
+http://sansat.net:25461/02024714519528/8193779560/448941
+#EXTINF:-1 tvg-ID="" tvg-name=" 2 Liga KANAŁ 6" tvg-logo="" group-title="vabenemium.com", 2 Liga KANAŁ 6
+http://sansat.net:25461/02024714519528/8193779560/448942
+#EXTINF:-1 tvg-ID="" tvg-name=" PPV  |The War 4|" tvg-logo="" group-title="vabenemium.com", PPV  |The War 4|
+http://sansat.net:25461/02024714519528/8193779560/448943
+#EXTINF:-1 tvg-ID="" tvg-name=" PPV 2" tvg-logo="" group-title="vabenemium.com", PPV 2
+http://sansat.net:25461/02024714519528/8193779560/448944
+#EXTINF:-1 tvg-ID="" tvg-name=" UFC Fight Night" tvg-logo="" group-title="vabenemium.com", UFC Fight Night
+http://sansat.net:25461/02024714519528/8193779560/448945
+#EXTINF:-1 tvg-ID="" tvg-name=" PlayLive PPV Platform EVENT" tvg-logo="" group-title="vabenemium.com", PlayLive PPV Platform EVENT
+http://sansat.net:25461/02024714519528/8193779560/448946
+#EXTINF:-1 tvg-ID="" tvg-name=" PPV HIGH LEAGUE" tvg-logo="" group-title="vabenemium.com", PPV HIGH LEAGUE
+http://sansat.net:25461/02024714519528/8193779560/448947
+#EXTINF:-1 tvg-ID="" tvg-name=" PPV GROMDA" tvg-logo="" group-title="vabenemium.com", PPV GROMDA
+http://sansat.net:25461/02024714519528/8193779560/448948
+#EXTINF:-1 tvg-ID="" tvg-name=" Polsat GO PPV" tvg-logo="" group-title="vabenemium.com", Polsat GO PPV
+http://sansat.net:25461/02024714519528/8193779560/448949
+#EXTINF:-1 tvg-ID="" tvg-name=" Fame MMA" tvg-logo="" group-title="vabenemium.com", Fame MMA
+http://sansat.net:25461/02024714519528/8193779560/448950
+#EXTINF:-1 tvg-ID="" tvg-name=" Prime MMA" tvg-logo="" group-title="vabenemium.com", Prime MMA
+http://sansat.net:25461/02024714519528/8193779560/448951
+#EXTINF:-1 tvg-ID="" tvg-name=" PlayLive PPV Platform" tvg-logo="" group-title="vabenemium.com", PlayLive PPV Platform
+http://sansat.net:25461/02024714519528/8193779560/448952
+#EXTINF:-1 tvg-ID="" tvg-name=" PPV Stream" tvg-logo="" group-title="vabenemium.com", PPV Stream
+http://sansat.net:25461/02024714519528/8193779560/448953
+#EXTINF:-1 tvg-ID="" tvg-name=" VIPmedia PPV | KUP PPV" tvg-logo="" group-title="vabenemium.com", VIPmedia PPV | KUP PPV
+http://sansat.net:25461/02024714519528/8193779560/448954
+#EXTINF:-1 tvg-ID="" tvg-name=" PPV FAMA MMA 15" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/viaplay.png" group-title="vabenemium.com", PPV FAMA MMA
+http://sansat.net:25461/02024714519528/8193779560/198683
